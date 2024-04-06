@@ -3,9 +3,9 @@ Spreadsheet data mapping and automation services with the Pixel assistant.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 
-## How Jinsei.ai solutions will help Shipyard:
+## CLA Problem:
 
-It is tediuos to hardcode your data transformations for every accounting statement positional format in the world. 
+It is tediuos to hardcode your data transformations for every accounting statement positional format in the world. It's even more tedious to manually populate data. 
 
 # CLA/PIXEL Solutions 
 
