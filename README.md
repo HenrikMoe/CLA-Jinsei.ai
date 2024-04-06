@@ -1,9 +1,7 @@
 # PixelCLA-ShipyardJinsei
 Spreadsheet data mapping and automation services with the Pixel assistant.
 
-# Shipyard + Jinsei.ai
-
-Various campaign media data transformation and validation solutions powered by Jax Tensorflow and GPT/Grok. 
+Solutions powered by Jax Tensorflow and GPT/Grok. 
 
 ## How Jinsei.ai solutions will help Shipyard:
 
