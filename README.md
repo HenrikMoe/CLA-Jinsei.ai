@@ -5,7 +5,7 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 ## CLA Problem:
 
-It is tediuos to hardcode your data transformations for every accounting statement positional format in the world. It's even more tedious to manually populate data. 
+Automating data transformations for every type of accounting statement.
 
 # CLA/PIXEL Solutions 
 
@@ -23,14 +23,18 @@ It is tediuos to hardcode your data transformations for every accounting stateme
 
 ## 2) Multi-SpreadSheet Data Formatting Automation
 
-- excel sheet content to database mapping service 
-- needs investment statements sets from compatible and not compatible excel sheets 
+- excel sheet content mapping to CLA audit suite and Jinsei chat + Pixel  
+- needs investment statements sets from compatible and not compatible excel sheets with the current CLA transformation pipeline
 
-Sequence-to-Sequence TF JAX service for automating multi-spreadsheet content position format standardization.
+Sequence-to-Sequence TF JAX service for automating multi-spreadsheet content position format standardization for digestion by audit and other programs within CLA and within this joint venture.
+
+## 3) Blockchain Investing Gains On-Chain Data Audit
+
+- audit with bank statements and on chain data for verification of trading gains
 
 ### Service Interface/DevOps
 
-Shipyard container routing, REST transfer protocol preference.  
+Container routing, REST transfer protocol preference.  
 
 ### Service StartUp: Set Env & Run Models
 
