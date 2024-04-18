@@ -1,4 +1,4 @@
-# PixelCLA-ShipyardJinsei
+# CLA-ShipyardJinsei
 Spreadsheet data mapping and automation services with the Pixel assistant.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
