@@ -1,5 +1,5 @@
 # CLA-ShipyardJinsei
-Spreadsheet data mapping and automation services with the Pixel assistant.
+Spreadsheet data mapping and automation services with the Chat GPT assistant.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 
@@ -7,11 +7,11 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 Automating data transformations for every type of accounting statement.
 
-# CLA/PIXEL Solutions 
+# CLA Solutions 
 
-## 1) Pixel Turbocharged: Upload multiple files with automated formatting for mutliple spreadsheets
+## 1) GPT Turbocharged: Upload multiple files with automated formatting for mutliple spreadsheets
 
-### Upload multiple files within Pixel chat and have them automtically formatted and synced with the CLA tool suite. 
+### Upload multiple files within GPT chat and have them automtically formatted and synced with the CLA tool suite. 
 
 ### Assistant can take multiple file uploads and output the files to the CLA tool suite in a standardized format.
 
@@ -23,7 +23,7 @@ Automating data transformations for every type of accounting statement.
 
 ## 2) Multi-SpreadSheet Data Formatting Automation
 
-- excel sheet content mapping to CLA audit suite and Jinsei chat + Pixel  
+- excel sheet content mapping to CLA audit suite and Jinsei chat  
 - needs investment statements sets from compatible and not compatible excel sheets with the current CLA transformation pipeline
 
 Sequence-to-Sequence TF JAX service for automating multi-spreadsheet content position format standardization for digestion by audit and other programs within CLA and within this joint venture.
