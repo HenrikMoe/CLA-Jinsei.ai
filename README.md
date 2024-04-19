@@ -1,4 +1,7 @@
 # CLA-Jinsei.ai
+
+https://jinsei.ai/cla
+
 Spreadsheet data mapping and automation services with the Chat GPT assistant.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
