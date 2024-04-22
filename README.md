@@ -8,7 +8,7 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 ## CLA Problem:
 
-Automating data transformations for every type of accounting statement.
+Automating data transformations for every accounting statement, extended GPT interface, and on-chain trade gains audits. 
 
 # CLA Solutions 
 
