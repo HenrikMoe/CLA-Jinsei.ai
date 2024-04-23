@@ -2,7 +2,7 @@
 
 https://jinsei.ai/cla
 
-Spreadsheet data mapping and automation services with the Chat GPT assistant.
+Various data mapping and automation services with Grok chat assistants.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 
