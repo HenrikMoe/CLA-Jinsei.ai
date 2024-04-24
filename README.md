@@ -2,7 +2,7 @@
 
 https://jinsei.ai/cla
 
-Various data mapping and automation services with Grok chat assistants.
+Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 
@@ -20,9 +20,7 @@ Automating data transformations for every accounting statement, extended GPT int
 
 - Boilerplate Prompt (query syntax) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
 - Boilerplate Classification Training: https://github.com/PortalToBlockchainOrganization/CryptoCountAI/blob/master/typeModelResult1.py
-- Integrate Shipyard DB Queries to Taxonomy Element pairings 
-- Needs collections of client ROI reports required by Shipyard clientele
-
+- Integrate CLA DB Queries to Taxonomy Element pairings 
 
 ## 2) Multi-SpreadSheet Data Formatting Automation
 
