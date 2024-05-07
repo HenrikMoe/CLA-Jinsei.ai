@@ -12,7 +12,7 @@ Automating data transformations for every accounting statement, extended GPT int
 
 # CLA Solutions 
 
-## 1) GPT Turbocharged: Upload multiple files with automated formatting for mutliple spreadsheets
+## 1) GPT/Grok Turbocharged: Upload multiple files with automated formatting for mutliple spreadsheets
 
 ### Upload multiple files within GPT chat and have them automtically formatted and synced with the CLA tool suite. 
 
