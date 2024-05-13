@@ -14,7 +14,7 @@ Automating data transformations for every accounting statement, extended GPT int
 
 ## 1) GPT/Grok Turbocharged: Upload multiple files with automated formatting for mutliple spreadsheets
 
-### Upload multiple files within GPT chat and have them automtically formatted and synced with the CLA tool suite. 
+### Upload multiple files within GPT/Grok chat and have them automtically formatted and synced with the CLA tool suite. 
 
 ### Assistant can take multiple file uploads and output the files to the CLA tool suite in a standardized format.
 
