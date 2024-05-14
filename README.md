@@ -33,7 +33,7 @@ Sequence-to-Sequence TF JAX service for automating multi-spreadsheet content pos
 ## 3) Blockchain Investing Gains On-Chain Data Audit
 
 - audit with bank statements and on chain data for verification of trading gains
-- delivered with chat service and through the CLA data interface
+- delivered with chat service and through the CLA user interface
 
 ### Service Interface/DevOps
 
